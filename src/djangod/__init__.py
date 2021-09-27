@@ -1,0 +1,1 @@
+from .djangod import generate_files

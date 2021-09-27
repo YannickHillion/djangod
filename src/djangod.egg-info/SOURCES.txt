@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/djangod/__init__.py
+src/djangod/__main__.py
+src/djangod/argumentParser.py
+src/djangod/django_basic_crud_generator.py
+src/djangod.egg-info/PKG-INFO
+src/djangod.egg-info/SOURCES.txt
+src/djangod.egg-info/dependency_links.txt
+src/djangod.egg-info/top_level.txt
